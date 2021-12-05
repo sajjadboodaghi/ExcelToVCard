@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ExcelToVCard</string>
+    <string name="import_excel_file">Import Excel File</string>
 </resources>
